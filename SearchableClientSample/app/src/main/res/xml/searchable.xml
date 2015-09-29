@@ -1,0 +1,6 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+            android:label="@string/search_label"
+            android:includeInGlobalSearch="true"
+            android:searchSuggestAuthority="com.example.android.searchableclientsample.SampleProvider"
+            android:searchSuggestIntentAction="android.intent.action.VIEW">
+</searchable>

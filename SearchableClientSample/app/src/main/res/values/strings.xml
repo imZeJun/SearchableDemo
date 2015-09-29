@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchableClientSample</string>
+    <string name="search_label">SearchableClientSample</string>
+</resources>
